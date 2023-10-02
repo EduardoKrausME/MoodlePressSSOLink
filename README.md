@@ -1,4 +1,4 @@
-wp2moodle
+MoodlePress SSO Link
 =========
 
 WordPress to Moodle (wp2moodle) is a plugin that allows users in WordPress to open Moodle courses without getting a logon box in between. It will also (optionally) enrol the user into cohorts, courses and groups.
